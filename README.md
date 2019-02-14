@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Here is the my "Personal Web-Site" 👉 
+Here is the my "Personal Web-Site" 👉 https://zngntr.github.io/personal-blog/
 
 You can use the [editor on GitHub](https://github.com/zngntr/personal-blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
